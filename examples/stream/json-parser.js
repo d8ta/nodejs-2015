@@ -17,6 +17,7 @@ server.on('request', function(req, res) {
 	res.end();
 });
 
+// My JsonParser Constructor
 function JsonParser() {
 	stream.Transform.call(this);
 	this.body = '';

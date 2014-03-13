@@ -1,3 +1,4 @@
 // index.js
-var hello = require('./world');
+var hello = require('./hello');
+var hello2 = require('./hello');
 hello.world();
