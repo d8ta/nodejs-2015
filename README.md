@@ -1,8 +1,8 @@
 # NodeJS Workshop Salzburg
 ## Julian Hollmann
 
-* Was ist NodeJS?
-** Server-side javascript based on V8
+- Was ist NodeJS?
+- Server-side javascript based on V8
 ** Non-Blocking I/O
 
 * Wann ist der Einsatz von node sinnvoll?
@@ -18,10 +18,6 @@
 ** Javascript is awesome, isn't it?
 ** Write code once, use it on the frontend and backend
 ** Performance
-
-* Node.js bei Travian 5
-** Chat Server und Push von Daten
-*** Socket.io
 
 * Installation
 ** http://nodejs.org
@@ -44,6 +40,7 @@
 ** NPM
 ** Nodemon
 ** forever
+** [TODO] node-webkit (nw.io)
 
 * Frameworks
 ** Express.js
@@ -51,6 +48,7 @@
 
 * Hosting / Deployment
 ** heroku
+** [TODO] Codeship
 
 * Literatur
 ** JavaScript the Good Parts
