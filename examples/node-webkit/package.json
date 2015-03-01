@@ -1,0 +1,7 @@
+{
+  "name": "node-webkit-example",
+  "version": "1.0.0",
+  "description": "A simple example of node-webkit",
+  "main": "index.html",
+  "license": "ISC"
+}
